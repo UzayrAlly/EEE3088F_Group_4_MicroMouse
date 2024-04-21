@@ -1,6 +1,6 @@
 # EEE3088F_Group_4_MicroMouse
 Micro-Mouse Sensing Subsystem
-This repository contains the design documentation and testing procedures for the sensing subsystem of the Micro-Mouse project. The sensing subsystem serves as the "eyes" of the Micro-Mouse, detecting walls within a maze environment using infrared light and providing signals for navigation.
+#This repository contains the design documentation and testing procedures for the sensing subsystem of the Micro-Mouse project. The sensing subsystem serves as the "eyes" of the Micro-Mouse, detecting walls within a maze environment using infrared light and providing signals for navigation.
 
 Contents:
 Design Decisions: Discusses the initial circuit design, component selection, evaluation, and final design of the sensing module. It outlines the rationale behind component choices and design modifications.
